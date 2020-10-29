@@ -1,0 +1,13 @@
+C:\Users\Brielle\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\obj\Debug\netcoreapp3.1\myConsoleProject.csprojAssemblyReference.cache
+C:\Users\Brielle\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\obj\Debug\netcoreapp3.1\myConsoleProject.AssemblyInfoInputs.cache
+C:\Users\Brielle\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\obj\Debug\netcoreapp3.1\myConsoleProject.AssemblyInfo.cs
+C:\Users\Brielle\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\obj\Debug\netcoreapp3.1\myConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\Brielle\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\bin\Debug\netcoreapp3.1\myConsoleProject.exe
+C:\Users\Brielle\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\bin\Debug\netcoreapp3.1\myConsoleProject.deps.json
+C:\Users\Brielle\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\bin\Debug\netcoreapp3.1\myConsoleProject.runtimeconfig.json
+C:\Users\Brielle\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\bin\Debug\netcoreapp3.1\myConsoleProject.runtimeconfig.dev.json
+C:\Users\Brielle\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\bin\Debug\netcoreapp3.1\myConsoleProject.dll
+C:\Users\Brielle\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\bin\Debug\netcoreapp3.1\myConsoleProject.pdb
+C:\Users\Brielle\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\obj\Debug\netcoreapp3.1\myConsoleProject.dll
+C:\Users\Brielle\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\obj\Debug\netcoreapp3.1\myConsoleProject.pdb
+C:\Users\Brielle\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\obj\Debug\netcoreapp3.1\myConsoleProject.genruntimeconfig.cache
