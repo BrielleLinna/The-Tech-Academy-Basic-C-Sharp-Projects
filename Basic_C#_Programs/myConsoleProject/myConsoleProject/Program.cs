@@ -1,13 +1,12 @@
 ﻿using System;
 
-namespace myConsoleProject
+class Program
 {
-    class Program
+    static void Main()
     {
-        static void Main(string args)
-        {
-            Console.WriteLine("What is your name?");
-            string name = Console.ReadLine(Brielle);
-        }
+        Console.WriteLine("Welcome to Acme Accounting Systems");
+        Console.WriteLine("\n Remember, we're \"accounting\" on you!");
+        Console.ReadLine();
     }
 }
+

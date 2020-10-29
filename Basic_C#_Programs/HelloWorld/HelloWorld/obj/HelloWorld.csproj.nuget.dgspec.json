@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Brielle\\Desktop\\Basic_C#_Programs\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\Brielle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Basic_C#_Programs\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Brielle\\Desktop\\Basic_C#_Programs\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\Brielle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Basic_C#_Programs\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Brielle\\Desktop\\Basic_C#_Programs\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\Brielle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Basic_C#_Programs\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\Brielle\\Desktop\\Basic_C#_Programs\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\Brielle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Basic_C#_Programs\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\Brielle\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Brielle\\Desktop\\Basic_C#_Programs\\HelloWorld\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\Brielle\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Basic_C#_Programs\\HelloWorld\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Brielle\\AppData\\Roaming\\NuGet\\NuGet.Config",
