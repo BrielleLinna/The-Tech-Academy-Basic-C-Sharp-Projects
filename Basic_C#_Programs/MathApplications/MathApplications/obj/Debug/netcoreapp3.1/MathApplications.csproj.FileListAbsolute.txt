@@ -1,0 +1,13 @@
+C:\Users\Brielle\source\repos\Math\MathApplications\MathApplications\bin\Debug\netcoreapp3.1\MathApplications.exe
+C:\Users\Brielle\source\repos\Math\MathApplications\MathApplications\bin\Debug\netcoreapp3.1\MathApplications.deps.json
+C:\Users\Brielle\source\repos\Math\MathApplications\MathApplications\bin\Debug\netcoreapp3.1\MathApplications.runtimeconfig.json
+C:\Users\Brielle\source\repos\Math\MathApplications\MathApplications\bin\Debug\netcoreapp3.1\MathApplications.runtimeconfig.dev.json
+C:\Users\Brielle\source\repos\Math\MathApplications\MathApplications\bin\Debug\netcoreapp3.1\MathApplications.dll
+C:\Users\Brielle\source\repos\Math\MathApplications\MathApplications\bin\Debug\netcoreapp3.1\MathApplications.pdb
+C:\Users\Brielle\source\repos\Math\MathApplications\MathApplications\obj\Debug\netcoreapp3.1\MathApplications.csprojAssemblyReference.cache
+C:\Users\Brielle\source\repos\Math\MathApplications\MathApplications\obj\Debug\netcoreapp3.1\MathApplications.AssemblyInfoInputs.cache
+C:\Users\Brielle\source\repos\Math\MathApplications\MathApplications\obj\Debug\netcoreapp3.1\MathApplications.AssemblyInfo.cs
+C:\Users\Brielle\source\repos\Math\MathApplications\MathApplications\obj\Debug\netcoreapp3.1\MathApplications.csproj.CoreCompileInputs.cache
+C:\Users\Brielle\source\repos\Math\MathApplications\MathApplications\obj\Debug\netcoreapp3.1\MathApplications.dll
+C:\Users\Brielle\source\repos\Math\MathApplications\MathApplications\obj\Debug\netcoreapp3.1\MathApplications.pdb
+C:\Users\Brielle\source\repos\Math\MathApplications\MathApplications\obj\Debug\netcoreapp3.1\MathApplications.genruntimeconfig.cache
