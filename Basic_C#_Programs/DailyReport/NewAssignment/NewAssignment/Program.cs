@@ -4,7 +4,7 @@ namespace DailyReport
 {
     class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
             Console.WriteLine("The Tech Academy");
             Console.WriteLine("\n Student Daily Report");
@@ -19,9 +19,8 @@ namespace DailyReport
             int pNumber = Convert.ToInt32(pageNumber);
             Console.WriteLine(pNumber);
             Console.WriteLine("\n Do you need help with anything? Please answer \"true or false\"");
-            bool yesHelp = true;
-            bool noHelp = false;
-            Console.ReadLine();
+            bool help= Convert.ToBoolean(Console.ReadLine());
+            Console.WriteLine(help);
             Console.WriteLine("\n Were there any positive experiences you'd like to share? Please give specifics");
             string experience = Console.ReadLine();
             Console.WriteLine(experience);

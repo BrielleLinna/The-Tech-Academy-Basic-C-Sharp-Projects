@@ -1,0 +1,13 @@
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\NewAssignment\NewAssignment\bin\Debug\netcoreapp3.1\NewAssignment.exe
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\NewAssignment\NewAssignment\bin\Debug\netcoreapp3.1\NewAssignment.deps.json
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\NewAssignment\NewAssignment\bin\Debug\netcoreapp3.1\NewAssignment.runtimeconfig.json
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\NewAssignment\NewAssignment\bin\Debug\netcoreapp3.1\NewAssignment.runtimeconfig.dev.json
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\NewAssignment\NewAssignment\bin\Debug\netcoreapp3.1\NewAssignment.dll
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\NewAssignment\NewAssignment\bin\Debug\netcoreapp3.1\NewAssignment.pdb
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\NewAssignment\NewAssignment\obj\Debug\netcoreapp3.1\NewAssignment.AssemblyInfoInputs.cache
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\NewAssignment\NewAssignment\obj\Debug\netcoreapp3.1\NewAssignment.AssemblyInfo.cs
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\NewAssignment\NewAssignment\obj\Debug\netcoreapp3.1\NewAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\NewAssignment\NewAssignment\obj\Debug\netcoreapp3.1\NewAssignment.dll
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\NewAssignment\NewAssignment\obj\Debug\netcoreapp3.1\NewAssignment.pdb
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\NewAssignment\NewAssignment\obj\Debug\netcoreapp3.1\NewAssignment.genruntimeconfig.cache
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\NewAssignment\NewAssignment\obj\Debug\netcoreapp3.1\NewAssignment.csprojAssemblyReference.cache
