@@ -1,0 +1,13 @@
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\InsuranceAssignment\InsuranceAssignment\InsuranceAssignment\bin\Debug\netcoreapp3.1\InsuranceAssignment.exe
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\InsuranceAssignment\InsuranceAssignment\InsuranceAssignment\bin\Debug\netcoreapp3.1\InsuranceAssignment.deps.json
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\InsuranceAssignment\InsuranceAssignment\InsuranceAssignment\bin\Debug\netcoreapp3.1\InsuranceAssignment.runtimeconfig.json
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\InsuranceAssignment\InsuranceAssignment\InsuranceAssignment\bin\Debug\netcoreapp3.1\InsuranceAssignment.runtimeconfig.dev.json
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\InsuranceAssignment\InsuranceAssignment\InsuranceAssignment\bin\Debug\netcoreapp3.1\InsuranceAssignment.dll
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\InsuranceAssignment\InsuranceAssignment\InsuranceAssignment\bin\Debug\netcoreapp3.1\InsuranceAssignment.pdb
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\InsuranceAssignment\InsuranceAssignment\InsuranceAssignment\obj\Debug\netcoreapp3.1\InsuranceAssignment.csprojAssemblyReference.cache
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\InsuranceAssignment\InsuranceAssignment\InsuranceAssignment\obj\Debug\netcoreapp3.1\InsuranceAssignment.AssemblyInfoInputs.cache
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\InsuranceAssignment\InsuranceAssignment\InsuranceAssignment\obj\Debug\netcoreapp3.1\InsuranceAssignment.AssemblyInfo.cs
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\InsuranceAssignment\InsuranceAssignment\InsuranceAssignment\obj\Debug\netcoreapp3.1\InsuranceAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\InsuranceAssignment\InsuranceAssignment\InsuranceAssignment\obj\Debug\netcoreapp3.1\InsuranceAssignment.dll
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\InsuranceAssignment\InsuranceAssignment\InsuranceAssignment\obj\Debug\netcoreapp3.1\InsuranceAssignment.pdb
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\InsuranceAssignment\InsuranceAssignment\InsuranceAssignment\obj\Debug\netcoreapp3.1\InsuranceAssignment.genruntimeconfig.cache
