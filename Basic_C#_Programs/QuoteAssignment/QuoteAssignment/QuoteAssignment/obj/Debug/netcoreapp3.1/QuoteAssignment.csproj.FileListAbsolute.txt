@@ -1,0 +1,13 @@
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\QuoteAssignment\QuoteAssignment\QuoteAssignment\bin\Debug\netcoreapp3.1\QuoteAssignment.exe
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\QuoteAssignment\QuoteAssignment\QuoteAssignment\bin\Debug\netcoreapp3.1\QuoteAssignment.deps.json
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\QuoteAssignment\QuoteAssignment\QuoteAssignment\bin\Debug\netcoreapp3.1\QuoteAssignment.runtimeconfig.json
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\QuoteAssignment\QuoteAssignment\QuoteAssignment\bin\Debug\netcoreapp3.1\QuoteAssignment.runtimeconfig.dev.json
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\QuoteAssignment\QuoteAssignment\QuoteAssignment\bin\Debug\netcoreapp3.1\QuoteAssignment.dll
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\QuoteAssignment\QuoteAssignment\QuoteAssignment\bin\Debug\netcoreapp3.1\QuoteAssignment.pdb
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\QuoteAssignment\QuoteAssignment\QuoteAssignment\obj\Debug\netcoreapp3.1\QuoteAssignment.csprojAssemblyReference.cache
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\QuoteAssignment\QuoteAssignment\QuoteAssignment\obj\Debug\netcoreapp3.1\QuoteAssignment.AssemblyInfoInputs.cache
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\QuoteAssignment\QuoteAssignment\QuoteAssignment\obj\Debug\netcoreapp3.1\QuoteAssignment.AssemblyInfo.cs
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\QuoteAssignment\QuoteAssignment\QuoteAssignment\obj\Debug\netcoreapp3.1\QuoteAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\QuoteAssignment\QuoteAssignment\QuoteAssignment\obj\Debug\netcoreapp3.1\QuoteAssignment.dll
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\QuoteAssignment\QuoteAssignment\QuoteAssignment\obj\Debug\netcoreapp3.1\QuoteAssignment.pdb
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\QuoteAssignment\QuoteAssignment\QuoteAssignment\obj\Debug\netcoreapp3.1\QuoteAssignment.genruntimeconfig.cache
