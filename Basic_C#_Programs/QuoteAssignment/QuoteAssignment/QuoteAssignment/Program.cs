@@ -26,7 +26,7 @@ namespace QuoteAssignment
                 Console.WriteLine("What is the length of the package?");
                 int lengthPackage = Convert.ToInt32(Console.ReadLine());
 
-                if (widthPackage > 50 || heightPackage > 50 || lengthPackage > 50)
+                if (widthPackage + heightPackage + lengthPackage > 50)
                 { 
                     Console.WriteLine("This package too big to be shipped via Package Express.");
                 }
