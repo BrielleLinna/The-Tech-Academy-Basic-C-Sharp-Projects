@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 
 namespace SwitchAssignment
 {
@@ -8,34 +9,44 @@ namespace SwitchAssignment
         {
             Console.WriteLine("Please enter the promo code:");
             int code = Convert.ToInt32(Console.ReadLine());
-            bool codeInput = false;
+            bool codeInput = code == 21;
+            bool codeNew = code == 22 || code == 23;
 
             do
             {
                 switch (code)
                 {
-                    case 21:
-                        Console.WriteLine("21% applied!");
+                    case 20:
+                        Console.WriteLine("You entered 20, that is not a valid code.");
+                        Console.WriteLine("Please enter the promo code:");
                         code = Convert.ToInt32(Console.ReadLine());
                         break;
                     case 24:
-                        Console.WriteLine("24% applied!");
+                        Console.WriteLine("You entered 24, that is not a valid code.");
+                        Console.WriteLine("Please enter the promo code:");
                         code = Convert.ToInt32(Console.ReadLine());
                         break;
-                    case 27:
-                        Console.WriteLine("27% applied!");
-                        code = Convert.ToInt32(Console.ReadLine());
+                    case 21:
+                        Console.WriteLine("Your promo code 21 was accepted, receive 21% off!");
                         break;
                     default:
-                        Console.WriteLine("That promo code is expired or invalid.");
-                        Console.WriteLine("Please try again.");
+                        Console.WriteLine("No such promo code.");
+                        Console.WriteLine("Please enter the promo code:");
                         code = Convert.ToInt32(Console.ReadLine());
-                        Console.ReadLine();
                         break;
                 }
+                         Console.ReadLine();
+                         while (codeNew);
+            {
+                case 22:
+                Console.WriteLine("This promo code is not yet valid. Please try again after November 5th to redeem.");
+                break;
+
+                case 23:
+                Console.WriteLine("This promo code is not yet valid. Please try again on black friday.");
+                break;
             }
-                while (!codeInput);
-                Console.ReadLine();
+            Console.ReadLine();
         }
     }
 }

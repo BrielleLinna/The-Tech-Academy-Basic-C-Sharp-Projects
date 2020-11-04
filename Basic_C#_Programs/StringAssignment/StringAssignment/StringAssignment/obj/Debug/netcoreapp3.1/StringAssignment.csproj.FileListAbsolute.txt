@@ -1,0 +1,13 @@
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringAssignment\StringAssignment\StringAssignment\bin\Debug\netcoreapp3.1\StringAssignment.exe
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringAssignment\StringAssignment\StringAssignment\bin\Debug\netcoreapp3.1\StringAssignment.deps.json
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringAssignment\StringAssignment\StringAssignment\bin\Debug\netcoreapp3.1\StringAssignment.runtimeconfig.json
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringAssignment\StringAssignment\StringAssignment\bin\Debug\netcoreapp3.1\StringAssignment.runtimeconfig.dev.json
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringAssignment\StringAssignment\StringAssignment\bin\Debug\netcoreapp3.1\StringAssignment.dll
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringAssignment\StringAssignment\StringAssignment\bin\Debug\netcoreapp3.1\StringAssignment.pdb
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringAssignment\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.csprojAssemblyReference.cache
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringAssignment\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.AssemblyInfoInputs.cache
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringAssignment\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.AssemblyInfo.cs
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringAssignment\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringAssignment\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.dll
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringAssignment\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.pdb
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringAssignment\StringAssignment\StringAssignment\obj\Debug\netcoreapp3.1\StringAssignment.genruntimeconfig.cache
