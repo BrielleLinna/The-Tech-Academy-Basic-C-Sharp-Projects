@@ -1,0 +1,13 @@
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Do_WhileAssignment\Do_SwitchAssignment\Do_SwitchAssignment\bin\Debug\netcoreapp3.1\Do_SwitchAssignment.exe
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Do_WhileAssignment\Do_SwitchAssignment\Do_SwitchAssignment\bin\Debug\netcoreapp3.1\Do_SwitchAssignment.deps.json
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Do_WhileAssignment\Do_SwitchAssignment\Do_SwitchAssignment\bin\Debug\netcoreapp3.1\Do_SwitchAssignment.runtimeconfig.json
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Do_WhileAssignment\Do_SwitchAssignment\Do_SwitchAssignment\bin\Debug\netcoreapp3.1\Do_SwitchAssignment.runtimeconfig.dev.json
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Do_WhileAssignment\Do_SwitchAssignment\Do_SwitchAssignment\bin\Debug\netcoreapp3.1\Do_SwitchAssignment.dll
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Do_WhileAssignment\Do_SwitchAssignment\Do_SwitchAssignment\bin\Debug\netcoreapp3.1\Do_SwitchAssignment.pdb
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Do_WhileAssignment\Do_SwitchAssignment\Do_SwitchAssignment\obj\Debug\netcoreapp3.1\Do_SwitchAssignment.csprojAssemblyReference.cache
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Do_WhileAssignment\Do_SwitchAssignment\Do_SwitchAssignment\obj\Debug\netcoreapp3.1\Do_SwitchAssignment.AssemblyInfoInputs.cache
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Do_WhileAssignment\Do_SwitchAssignment\Do_SwitchAssignment\obj\Debug\netcoreapp3.1\Do_SwitchAssignment.AssemblyInfo.cs
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Do_WhileAssignment\Do_SwitchAssignment\Do_SwitchAssignment\obj\Debug\netcoreapp3.1\Do_SwitchAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Do_WhileAssignment\Do_SwitchAssignment\Do_SwitchAssignment\obj\Debug\netcoreapp3.1\Do_SwitchAssignment.dll
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Do_WhileAssignment\Do_SwitchAssignment\Do_SwitchAssignment\obj\Debug\netcoreapp3.1\Do_SwitchAssignment.pdb
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Do_WhileAssignment\Do_SwitchAssignment\Do_SwitchAssignment\obj\Debug\netcoreapp3.1\Do_SwitchAssignment.genruntimeconfig.cache

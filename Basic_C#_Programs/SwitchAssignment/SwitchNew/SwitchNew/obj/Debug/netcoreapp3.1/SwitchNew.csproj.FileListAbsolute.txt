@@ -1,0 +1,13 @@
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchAssignment\SwitchNew\SwitchNew\obj\Debug\netcoreapp3.1\SwitchNew.csprojAssemblyReference.cache
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchAssignment\SwitchNew\SwitchNew\obj\Debug\netcoreapp3.1\SwitchNew.AssemblyInfoInputs.cache
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchAssignment\SwitchNew\SwitchNew\obj\Debug\netcoreapp3.1\SwitchNew.AssemblyInfo.cs
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchAssignment\SwitchNew\SwitchNew\obj\Debug\netcoreapp3.1\SwitchNew.csproj.CoreCompileInputs.cache
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchAssignment\SwitchNew\SwitchNew\bin\Debug\netcoreapp3.1\SwitchNew.exe
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchAssignment\SwitchNew\SwitchNew\bin\Debug\netcoreapp3.1\SwitchNew.deps.json
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchAssignment\SwitchNew\SwitchNew\bin\Debug\netcoreapp3.1\SwitchNew.runtimeconfig.json
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchAssignment\SwitchNew\SwitchNew\bin\Debug\netcoreapp3.1\SwitchNew.runtimeconfig.dev.json
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchAssignment\SwitchNew\SwitchNew\bin\Debug\netcoreapp3.1\SwitchNew.dll
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchAssignment\SwitchNew\SwitchNew\bin\Debug\netcoreapp3.1\SwitchNew.pdb
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchAssignment\SwitchNew\SwitchNew\obj\Debug\netcoreapp3.1\SwitchNew.dll
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchAssignment\SwitchNew\SwitchNew\obj\Debug\netcoreapp3.1\SwitchNew.pdb
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchAssignment\SwitchNew\SwitchNew\obj\Debug\netcoreapp3.1\SwitchNew.genruntimeconfig.cache
