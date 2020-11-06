@@ -1,0 +1,13 @@
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PracticeArray\PracticeArray\PracticeArray\bin\Debug\netcoreapp3.1\PracticeArray.exe
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PracticeArray\PracticeArray\PracticeArray\bin\Debug\netcoreapp3.1\PracticeArray.deps.json
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PracticeArray\PracticeArray\PracticeArray\bin\Debug\netcoreapp3.1\PracticeArray.runtimeconfig.json
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PracticeArray\PracticeArray\PracticeArray\bin\Debug\netcoreapp3.1\PracticeArray.runtimeconfig.dev.json
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PracticeArray\PracticeArray\PracticeArray\bin\Debug\netcoreapp3.1\PracticeArray.dll
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PracticeArray\PracticeArray\PracticeArray\bin\Debug\netcoreapp3.1\PracticeArray.pdb
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PracticeArray\PracticeArray\PracticeArray\obj\Debug\netcoreapp3.1\PracticeArray.csprojAssemblyReference.cache
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PracticeArray\PracticeArray\PracticeArray\obj\Debug\netcoreapp3.1\PracticeArray.AssemblyInfoInputs.cache
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PracticeArray\PracticeArray\PracticeArray\obj\Debug\netcoreapp3.1\PracticeArray.AssemblyInfo.cs
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PracticeArray\PracticeArray\PracticeArray\obj\Debug\netcoreapp3.1\PracticeArray.csproj.CoreCompileInputs.cache
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PracticeArray\PracticeArray\PracticeArray\obj\Debug\netcoreapp3.1\PracticeArray.dll
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PracticeArray\PracticeArray\PracticeArray\obj\Debug\netcoreapp3.1\PracticeArray.pdb
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PracticeArray\PracticeArray\PracticeArray\obj\Debug\netcoreapp3.1\PracticeArray.genruntimeconfig.cache

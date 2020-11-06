@@ -1,0 +1,13 @@
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterationAssignment\IterationAssignment\IterationAssignment\bin\Debug\netcoreapp3.1\IterationAssignment.exe
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterationAssignment\IterationAssignment\IterationAssignment\bin\Debug\netcoreapp3.1\IterationAssignment.deps.json
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterationAssignment\IterationAssignment\IterationAssignment\bin\Debug\netcoreapp3.1\IterationAssignment.runtimeconfig.json
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterationAssignment\IterationAssignment\IterationAssignment\bin\Debug\netcoreapp3.1\IterationAssignment.runtimeconfig.dev.json
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterationAssignment\IterationAssignment\IterationAssignment\bin\Debug\netcoreapp3.1\IterationAssignment.dll
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterationAssignment\IterationAssignment\IterationAssignment\bin\Debug\netcoreapp3.1\IterationAssignment.pdb
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterationAssignment\IterationAssignment\IterationAssignment\obj\Debug\netcoreapp3.1\IterationAssignment.csprojAssemblyReference.cache
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterationAssignment\IterationAssignment\IterationAssignment\obj\Debug\netcoreapp3.1\IterationAssignment.AssemblyInfoInputs.cache
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterationAssignment\IterationAssignment\IterationAssignment\obj\Debug\netcoreapp3.1\IterationAssignment.AssemblyInfo.cs
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterationAssignment\IterationAssignment\IterationAssignment\obj\Debug\netcoreapp3.1\IterationAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterationAssignment\IterationAssignment\IterationAssignment\obj\Debug\netcoreapp3.1\IterationAssignment.dll
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterationAssignment\IterationAssignment\IterationAssignment\obj\Debug\netcoreapp3.1\IterationAssignment.pdb
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\IterationAssignment\IterationAssignment\IterationAssignment\obj\Debug\netcoreapp3.1\IterationAssignment.genruntimeconfig.cache
