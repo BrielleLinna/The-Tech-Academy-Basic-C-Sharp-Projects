@@ -18,7 +18,7 @@ namespace PracticeArray
                 int[] numArray = { 2020, 2021, 2022, 2023 };
                 Console.WriteLine("Please enter the index to guess the current year.");
                 int year = Convert.ToInt32(Console.ReadLine());
-                bool yearTrue = true;
+                bool yearTrue = false;
 
                 while (yearTrue == false)
                 {
@@ -32,25 +32,25 @@ namespace PracticeArray
                         case 1:
                             Console.WriteLine("It is not 2021.");
                             Console.WriteLine("Please enter the index that represents the current year.");
-                            int year = Convert.ToInt32(Console.ReadLine());
+                            year = Convert.ToInt32(Console.ReadLine());
                             break;
 
                         case 2:
                             Console.WriteLine("It is not 2022.");
                             Console.WriteLine("Please enter the index that represents the current year.");
-                            int year = Convert.ToInt32(Console.ReadLine());
+                            year = Convert.ToInt32(Console.ReadLine());
                             break;
 
                         case 3:
                             Console.WriteLine("It is not 2023.");
                             Console.WriteLine("Please enter the index that represents the current year.");
-                            int year = Convert.ToInt32(Console.ReadLine());
+                            year = Convert.ToInt32(Console.ReadLine());
                             break;
 
                         default:
                             Console.WriteLine("No such index exists, try again.");
                             Console.WriteLine("Please enter the index that represents the current year.");
-                            int year = Convert.ToInt32(Console.ReadLine());
+                            year = Convert.ToInt32(Console.ReadLine());
                             break;
                     }
 
