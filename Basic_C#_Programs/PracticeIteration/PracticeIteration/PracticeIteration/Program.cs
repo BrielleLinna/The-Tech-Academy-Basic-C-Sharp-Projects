@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-
+using System.Linq;
 
 namespace PracticeIteration
 {
@@ -91,25 +91,37 @@ namespace PracticeIteration
             identical.Add("dog");
             identical.Add("cat");
             identical.Add("monkey");
-            bool match = false;
 
-            do
+            Console.WriteLine("Please write a type of animal:");
+            string animal = Console.ReadLine();
+
+            if(identical.Contains(animal))
             {
-                Console.WriteLine("Please enter a type of animal.");
-                string animal = Console.ReadLine();
-                if (identical.Contains(animal))
+                    Console.WriteLine("You chose" + animal);
+                    Console.ReadLine();
+
+                for (int i = 0; i < identical.Count(); i++)
                 {
-                    Console.WriteLine(identical.IndexOf(animal));
-                    //Missing code to display not just one index but all containing animal results
-                    match = true;
+                        if (animal == [i])
+                        Console.WriteLine()
                 }
-                else if (!identical.Contains(animal))
-                {
-                    Console.WriteLine("No such results are in this list.");
-                }
+            else
+            {
+                Console.WriteLine("User input is not in the string.");
                 Console.ReadLine();
             }
-            while (match == false);
+
+            for(int i = 0; i < identical.Count(); i++)
+            {
+                Console.WriteLine(identical.Contains(animal));
+
+            if (animal = identical[i])
+            {
+                    Console.WriteLine(IndexOf(animal));
+                    Console.ReadLine();
+            }
+
+            }
 
             //Assignment Part 6
 
