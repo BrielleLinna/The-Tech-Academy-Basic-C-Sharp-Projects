@@ -7,29 +7,15 @@ namespace MethodAssignment
         static void Main(string[] args)
         {
 
-            Numbers newNumbers = new Numbers();
+            //Numbers newNumbers = new Numbers();
 
             Console.WriteLine("Please pick a whole number:");
             int input = Convert.ToInt32(Console.ReadLine());
 
-            //needing to call methods and pass in user input for each method
-
-            //?
-
-            //foreach(int x in ?)
-            //{
-            //    Console.WriteLine(myMethod1(?));
-            //}
-
-            //foreach(int y in ?)
-            //{
-            //    Console.WriteLine(myMethod2(?));
-            //}
-
-            //foreach  (int z in ?)
-            //{
-            //    Console.WriteLine(myMethod3(?));
-            //}
+            Console.WriteLine(Numbers.myMethod1(input));
+            Console.WriteLine(Numbers.myMethod2(input));
+            Console.WriteLine(Numbers.myMethod3(input));
+            Console.ReadLine();
 
         }
     }
