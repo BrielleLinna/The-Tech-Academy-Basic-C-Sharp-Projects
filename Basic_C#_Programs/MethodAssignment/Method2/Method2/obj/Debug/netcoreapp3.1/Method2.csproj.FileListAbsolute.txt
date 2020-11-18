@@ -1,0 +1,13 @@
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodAssignment\Method2\Method2\bin\Debug\netcoreapp3.1\Method2.exe
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodAssignment\Method2\Method2\bin\Debug\netcoreapp3.1\Method2.deps.json
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodAssignment\Method2\Method2\bin\Debug\netcoreapp3.1\Method2.runtimeconfig.json
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodAssignment\Method2\Method2\bin\Debug\netcoreapp3.1\Method2.runtimeconfig.dev.json
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodAssignment\Method2\Method2\bin\Debug\netcoreapp3.1\Method2.dll
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodAssignment\Method2\Method2\bin\Debug\netcoreapp3.1\Method2.pdb
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodAssignment\Method2\Method2\obj\Debug\netcoreapp3.1\Method2.csprojAssemblyReference.cache
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodAssignment\Method2\Method2\obj\Debug\netcoreapp3.1\Method2.AssemblyInfoInputs.cache
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodAssignment\Method2\Method2\obj\Debug\netcoreapp3.1\Method2.AssemblyInfo.cs
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodAssignment\Method2\Method2\obj\Debug\netcoreapp3.1\Method2.csproj.CoreCompileInputs.cache
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodAssignment\Method2\Method2\obj\Debug\netcoreapp3.1\Method2.dll
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodAssignment\Method2\Method2\obj\Debug\netcoreapp3.1\Method2.pdb
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodAssignment\Method2\Method2\obj\Debug\netcoreapp3.1\Method2.genruntimeconfig.cache

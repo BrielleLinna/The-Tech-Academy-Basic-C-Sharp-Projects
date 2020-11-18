@@ -1,0 +1,13 @@
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Method\Method\Method\bin\Debug\netcoreapp3.1\Method.exe
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Method\Method\Method\bin\Debug\netcoreapp3.1\Method.deps.json
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Method\Method\Method\bin\Debug\netcoreapp3.1\Method.runtimeconfig.json
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Method\Method\Method\bin\Debug\netcoreapp3.1\Method.runtimeconfig.dev.json
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Method\Method\Method\bin\Debug\netcoreapp3.1\Method.dll
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Method\Method\Method\bin\Debug\netcoreapp3.1\Method.pdb
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Method\Method\Method\obj\Debug\netcoreapp3.1\Method.csprojAssemblyReference.cache
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Method\Method\Method\obj\Debug\netcoreapp3.1\Method.AssemblyInfoInputs.cache
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Method\Method\Method\obj\Debug\netcoreapp3.1\Method.AssemblyInfo.cs
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Method\Method\Method\obj\Debug\netcoreapp3.1\Method.csproj.CoreCompileInputs.cache
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Method\Method\Method\obj\Debug\netcoreapp3.1\Method.dll
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Method\Method\Method\obj\Debug\netcoreapp3.1\Method.pdb
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Method\Method\Method\obj\Debug\netcoreapp3.1\Method.genruntimeconfig.cache
