@@ -5,48 +5,28 @@ class Demo
 {
     public static void Main(int[] args)
     {
-        //Method2.Numbers numbers = new Method2.Numbers();
-        //numbers.Operation = 2;
+        //error is saying needs assembly reference? Research suggested to maybe add a reference in on solution explorer?
+        Numbers newNumbers = new Numbers();
 
-        //Equation equation = new List<Equation>();
+        //One option to call method and put in parameters
+        Console.WriteLine(newNumbers.myMethod1(1,1));
+        Console.WriteLine(newNumbers.myMethod2(2.2, 2.2));
+        Console.WriteLine(newNumbers.myMethod3("3", "5"));
+        Console.ReadLine();
 
-            
-        //Console.WriteLine("Please pick a whole number:");
-        //int input = Convert.ToInt32(Console.ReadLine());
-
-        //int add = input + 2;
-
-        //Console.WriteLine("Input = {0}", add);
-
-        //public static Numbers add(numbers numbers)
-        //{
-        //    List<int> templist = new List<int>();
-        //    Random random = new Random();
-
-        //    while (numbers.Count > 0)
-        //}
-
-
-
-    
-
-
-    
-        static void MyMethod(int practice)
-        {
-            Console.WriteLine(practice + 2);
-        }
-
-        static void Main(int[] args)
-        {
-            MyMethod(2);
-            MyMethod(4);
-            MyMethod(6);
-        }
+        //Second attempt to call method and put in parameters
+        //attempting to convert the method 3 to int from sting in main program
+        int num1 = newNumbers.myMethod(9, 0);
+        int num2 = newNumbers.myMethod2(2.2, 5.4);
+        int num3 = Convert.ToInt32(newNumbers.myMethod3(5, 3));
+        Console.WriteLine("Int:" + num1);
+        Console.WriteLine("Double:" + num2);
+        Console.WriteLine("String to integer:" + num3);
+        Console.ReadLine();
+             
+        
     }
 }
+
   
 
-//internal class Equation
-//{
-//}
