@@ -16,13 +16,17 @@ namespace Method
             int number = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("You can choose to enter another number.");
-            int numberTwo = Convert.ToInt32(Console.ReadLine());
-
-            Console.WriteLine(MyClass.Method1(number));
-
-            Console.WriteLine(MyClass.Method1(number, numberTwo));
-            Console.ReadLine();
-
+            string o= Console.ReadLine();
+            if (o == "")
+            {
+                Console.WriteLine(MyClass.Method1(number));
+            }
+            else
+            {
+                int numberTwo = Convert.ToInt32(o);
+                Console.WriteLine(MyClass.Method1(number, numberTwo));
+            }
+                Console.ReadLine();
         }
 
     }

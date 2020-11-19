@@ -1,17 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
+using Method2;
 
-class Demo
+public class Program
 {
-    public static void Main(int[] args)
+    public static void Main(string[] args)
     {
-        //error is saying needs assembly reference? Research suggested to maybe add a reference in on solution explorer?
+     
         Numbers newNumbers = new Numbers();
 
         //One option to call method and put in parameters
         Console.WriteLine(newNumbers.myMethod1(1,1));
-        Console.WriteLine(newNumbers.myMethod2(2.2, 2.2));
-        Console.WriteLine(newNumbers.myMethod3("3", "5"));
+        Console.WriteLine(newNumbers.myMethod1(2.2, 2.2));
+        Console.WriteLine(newNumbers.myMethod1("3", "5"));
         Console.ReadLine();
 
         //Second attempt to call method and put in parameters
