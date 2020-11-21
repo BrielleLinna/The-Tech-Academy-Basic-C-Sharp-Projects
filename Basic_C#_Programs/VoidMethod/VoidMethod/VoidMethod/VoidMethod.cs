@@ -17,10 +17,5 @@ namespace VoidMethod
         {
             return g;
         }
-
-        internal int myMethod(object p1, object p2)
-        {
-            throw new NotImplementedException();
-        }
     }
 }
