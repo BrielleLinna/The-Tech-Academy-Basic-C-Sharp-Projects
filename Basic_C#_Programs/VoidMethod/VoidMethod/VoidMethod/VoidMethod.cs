@@ -8,9 +8,9 @@ namespace VoidMethod
 {
     public class VoidMethod
     {
-        public int myMethod (int x, int y)
+        public void myMethod (int x, int y)
         {
-            return x * y+ 2;
+            Console.WriteLine( x *  y);
         }
 
         public int myMethod (int g=2)

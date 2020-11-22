@@ -29,6 +29,7 @@ namespace ClassMethod
             Console.WriteLine(Division.myMethod2(4, 5));
             Console.ReadLine();
 
+            //out parameters
             int j;
             Division.outParameter(out j);
             Console.WriteLine("The output of i is [0] }", j);
