@@ -13,5 +13,19 @@ namespace ClassMethod
             return x / 2;
         }
 
+        public double myMethod(double x)
+        {
+            return x / 2;
+        }
+
+        public static int myMethod2(int g, int h)
+        {
+            return g + h;
+        }
+
+        public static void outParameter(out int j)
+        {
+            j = 46;
+        }
     }
 }
