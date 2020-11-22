@@ -32,7 +32,7 @@ namespace ClassMethod
             //out parameters
             int j;
             Division.outParameter(out j);
-            Console.WriteLine("The output of i is [0] }", j);
+            Console.WriteLine("The output of i is:", j);
             Console.ReadLine();
         }
     }
