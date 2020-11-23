@@ -23,9 +23,9 @@ namespace ClassMethod
             return g + h;
         }
 
-        public static void outParameter(out int j)
+        public static int outParameter(out int j)
         {
-            j = 46;
+            return j = 46;
         }
     }
 }
