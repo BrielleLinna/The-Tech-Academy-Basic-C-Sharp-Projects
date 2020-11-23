@@ -14,13 +14,17 @@ namespace VoidMethod
             //instanciating the class
             VoidMethod newVoidMethod = new VoidMethod();
 
-
-            newVoidMethod.myMethod(Console.WriteLine(y));
+            //calling default values with the method
+            Console.WriteLine(newVoidMethod.myMethod());
           
 
-            //trying to call method using parameter names
+            //calling in the void method passing in parameters
 
-            Console.WriteLine(newVoidMethod.myMethod(x:10, y:9));
+            newVoidMethod.myMethod(x:10, y:9);
+            Console.ReadLine();
+
+            //calling in a method using parameter names 
+            Console.WriteLine(newVoidMethod.myMethod1(firstNumber: 43, secondNumber: 56));
             Console.ReadLine();
         }
     }
