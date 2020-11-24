@@ -18,7 +18,7 @@ namespace Inheritance
             employee.firstName = "Sample";
             employee.lastName = "Student";
             //Calling the void method to apply to employee properties
-            employee.SayName("Sample", "Student");
+            employee.SayName(employee.firstName, employee.lastName);
             
 
 
