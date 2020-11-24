@@ -8,9 +8,31 @@ namespace Inheritance
 {
     public class Person
     {
-        public void FullName(string firstName, string lastName)
-        {
-            Console.WriteLine(firstName, lastName);
-        }
+
+        public string firstName { get; set; }
+        public string lastName { get; set; }
+       
+
+        public void SayName(string firstName, string lastName)
+            {
+                string fullName = firstName + lastName;
+                Console.WriteLine(fullName);
+            }
+
+
+
+
+        //public void FullName(string firstname, string lastname)
+        //{
+        //    Console.WriteLine(firstname + lastname);
+        //}
+
+        //public void SayName()
+        //{
+        //    foreach (name in firstName)
+        //    {
+
+        //    }
+
     }
 }
