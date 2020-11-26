@@ -16,6 +16,15 @@ namespace AbstractMethod
 
             employee.sayName();
             Console.ReadLine();
+
+
+            //employee.ID = 21;
+            //employee.Quit();
+            //Console.ReadLine();
+
+
+
+
         }
     }
 }

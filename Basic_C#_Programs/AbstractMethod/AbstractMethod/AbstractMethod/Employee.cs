@@ -6,12 +6,19 @@ using System.Threading.Tasks;
 
 namespace AbstractMethod
 {
-    public class Employee : Person
+    public class Employee : Person, IQuittable
     {
+
 
         public override void sayName()
         {
             base.sayName();
+        }
+
+
+        public void Quit(Employee employee)
+        {
+            Console.WriteLine(employee);
         }
     }
 }
