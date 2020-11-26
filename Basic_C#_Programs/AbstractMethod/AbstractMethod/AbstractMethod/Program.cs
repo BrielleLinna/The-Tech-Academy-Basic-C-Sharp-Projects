@@ -11,20 +11,16 @@ namespace AbstractMethod
         public static void Main(string[] args)
         {
             Employee employee = new Employee();
-            employee.firstName = "Sample";
-            employee.lastName = "Student";
+            employee.firstName = "John";
+            employee.lastName = "Snow";
+           
 
             employee.sayName();
             Console.ReadLine();
 
-
-            //employee.ID = 21;
-            //employee.Quit();
-            //Console.ReadLine();
-
-
-
-
+            IQuittable quitEmp = new Employee();
+            quitEmp.Quit(employee);
+            Console.ReadLine();
         }
     }
 }

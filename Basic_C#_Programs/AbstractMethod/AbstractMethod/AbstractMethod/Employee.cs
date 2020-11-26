@@ -18,7 +18,7 @@ namespace AbstractMethod
 
         public void Quit(Employee employee)
         {
-            Console.WriteLine(employee);
+            Console.WriteLine(employee.firstName + "" + employee.lastName + "has quit.");
         }
     }
 }
