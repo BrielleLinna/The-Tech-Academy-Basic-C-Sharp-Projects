@@ -9,15 +9,25 @@ namespace Operator
     public class Employee
     {
         
-        public List<int> Id  { get; set; }
+        public int Id  { get; set; }
+        public string firstName { get; set; }
+        public string lastName { get; set; }
 
-        public static Employee operator ==(Employee )
+
+        public static bool operator == (Employee x, Employee y)
         {
-            if (i = 0; if < 1; if++)
-            {
-
-            }
+            if (x.Id == y.Id)
+                return true;
+            else
+                return false;
         }
-      
+
+        public static bool operator !=(Employee x, Employee y)
+        {
+            if (x.Id != y.Id)
+                return true;
+            else
+                return false;
+        }
     }
 }
