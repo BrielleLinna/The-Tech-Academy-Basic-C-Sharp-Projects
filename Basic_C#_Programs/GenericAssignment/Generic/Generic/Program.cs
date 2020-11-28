@@ -32,13 +32,12 @@ namespace Generic
             foreach (var Thing in employee.Things)
             {
                 Console.WriteLine(Thing);
-                Console.ReadLine();
             }
             foreach (var Thing2 in employeeId.Things)
             {
                 Console.WriteLine(Thing2);
-                Console.ReadLine();
             }
+            Console.ReadLine();
         }
     }
 }
