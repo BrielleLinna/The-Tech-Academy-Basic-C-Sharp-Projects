@@ -4,21 +4,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Enum
+namespace EnumAssignment
 {
     public class Program
     {
         static void Main(string[] args)
         {
-            Days DaysOfTheWeek = new Days();
+            DayOfWeek currentDay;
             Console.WriteLine("Please enter the current day of the week:");
-            string dayInput = Console.ReadLine();
-            int underlyingValue = Convert.ToInt32(dayInput[7]);
+            string input = Console.ReadLine();
+         
 
             try
             {
-                int[] Days = { 1, 2, 3, 4, 5, 6, 7 };
-                Console.WriteLine(dayInput);
+                currentDay = (DayOfWeek)(DaysOfTheWeek)Enum.Parse(typeof(DaysOfTheWeek), input);
             }
             catch (Exception e)
             {
