@@ -10,14 +10,15 @@ namespace EnumAssignment
     {
         static void Main(string[] args)
         {
-            DayOfWeek currentDay;
+            DaysOfTheWeek currentDay;
             Console.WriteLine("Please enter the current day of the week:");
             string input = Console.ReadLine();
          
 
             try
             {
-                currentDay = (DayOfWeek)(DaysOfTheWeek)Enum.Parse(typeof(DaysOfTheWeek), input);
+                currentDay = (DaysOfTheWeek)Enum.Parse(typeof(DaysOfTheWeek), input);
+                Console.WriteLine("Today is" + currentDay);
             }
             catch (Exception e)
             {
