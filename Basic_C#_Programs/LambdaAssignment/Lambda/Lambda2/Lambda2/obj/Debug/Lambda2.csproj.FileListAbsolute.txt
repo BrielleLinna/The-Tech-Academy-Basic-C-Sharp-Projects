@@ -1,0 +1,7 @@
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\LambdaAssignment\Lambda\Lambda2\Lambda2\bin\Debug\Lambda2.exe.config
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\LambdaAssignment\Lambda\Lambda2\Lambda2\bin\Debug\Lambda2.exe
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\LambdaAssignment\Lambda\Lambda2\Lambda2\bin\Debug\Lambda2.pdb
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\LambdaAssignment\Lambda\Lambda2\Lambda2\obj\Debug\Lambda2.csprojAssemblyReference.cache
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\LambdaAssignment\Lambda\Lambda2\Lambda2\obj\Debug\Lambda2.csproj.CoreCompileInputs.cache
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\LambdaAssignment\Lambda\Lambda2\Lambda2\obj\Debug\Lambda2.exe
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\LambdaAssignment\Lambda\Lambda2\Lambda2\obj\Debug\Lambda2.pdb
