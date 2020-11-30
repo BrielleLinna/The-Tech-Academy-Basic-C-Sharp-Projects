@@ -6,15 +6,10 @@ using System.Threading.Tasks;
 
 namespace Struct
 {
-    public class StructNumber
+    public struct StructNumber
     {
         public decimal Amount { get; set; }
 
-        struct Number
-            {
-                public decimal x;
-                public decimal y;
-            }
-        }
     }
+}
 

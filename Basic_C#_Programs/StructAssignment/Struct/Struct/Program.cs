@@ -11,8 +11,9 @@ namespace Struct
         public static void Main(string[] args)
         {
             StructNumber newNumber = new StructNumber();
+            newNumber.Amount = 2.1m;
 
-            Console.WriteLine(newNumber.Amount = 2.1m);
+            Console.WriteLine(newNumber.Amount);
             Console.ReadLine();
 
         }

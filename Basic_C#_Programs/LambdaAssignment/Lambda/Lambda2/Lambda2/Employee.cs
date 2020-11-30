@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Struct
+namespace Lambda2
 {
-    class Number
+    class Employee
     {
-        public object Amount { get; internal set; }
     }
 }
