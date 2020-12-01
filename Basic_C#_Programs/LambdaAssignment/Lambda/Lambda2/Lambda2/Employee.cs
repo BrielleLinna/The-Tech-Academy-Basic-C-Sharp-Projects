@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Lambda2
 {
-    class Employee
+    public class Employee
     {
+        public string firstName { get; set; }
+        public string lastName { get; set; }
+        public int Id { get; set; }
+        public List<Employee> Employees { get; set; }
     }
 }

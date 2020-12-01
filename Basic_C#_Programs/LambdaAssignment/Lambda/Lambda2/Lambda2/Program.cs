@@ -9,33 +9,100 @@ namespace Lambda2
     public class Program
     {
         static void Main(string[] args)
-        { 
+        {
+            Employee employeeNew = new Employee();
 
-            var myList = new List<Tuple<string, string, int>>();
-            myList.Add(Tuple.Create(firstName = "Joe", lastName = "Smith", Id = 212));
-            myList.Add(Tuple.Create("Joe", "Sam", 212));
-            myList.Add(Tuple.Create("Sally", "White", 212));
-            myList.Add(Tuple.Create("Jose", "Stein", 212));
-            myList.Add(Tuple.Create("Abby", "Brown", 212));
-            myList.Add(Tuple.Create("Anne", "Lane", 212));
-            myList.Add(Tuple.Create("Layla", "Johnson", 212));
-            myList.Add(Tuple.Create("Mark", "Wu", 212));
-            myList.Add(Tuple.Create("Jesse", "Doe", 212));
-            myList.Add(Tuple.Create("James", "Joseph", 212));
+            List<Employee> empList = new List<Employee>();
 
+            Employee empObj1 = new Employee();
+            empObj1.firstName = "Joe";
+            empObj1.lastName = "Smith";
+            empObj1.Id = 212;
+            empList.Add(empObj1);
 
-            foreach (firstName in myList)
+            Employee empObj2 = new Employee();
+            empObj2.firstName = "Joe";
+            empObj2.lastName = "Stein";
+            empObj2.Id = 4;
+            empList.Add(empObj2);
+
+            Employee empObj3 = new Employee();
+            empObj3.firstName = "Sally";
+            empObj3.lastName = "Johnson";
+            empObj3.Id = 3;
+            empList.Add(empObj3);
+
+            Employee empObj4 = new Employee();
+            empObj4.firstName = "Abby";
+            empObj4.lastName = "White";
+            empObj4.Id = 22;
+            empList.Add(empObj4);
+
+            Employee empObj5 = new Employee();
+            empObj5.firstName = "Kevin";
+            empObj5.lastName = "Glass";
+            empObj5.Id = 21;
+            empList.Add(empObj5);
+
+            Employee empObj6 = new Employee();
+            empObj6.firstName = "Layla";
+            empObj6.lastName = "White";
+            empObj6.Id = 12;
+            empList.Add(empObj6);
+
+            Employee empObj7 = new Employee();
+            empObj7.firstName = "Mark";
+            empObj7.lastName = "Wu";
+            empObj7.Id = 2;
+            empList.Add(empObj7);
+
+            Employee empObj8 = new Employee();
+            empObj8.firstName = "Sam";
+            empObj8.lastName = "Grey";
+            empObj8.Id = 14;
+            empList.Add(empObj8);
+
+            Employee empObj9 = new Employee();
+            empObj9.firstName = "Joel";
+            empObj9.lastName = "Hazel";
+            empObj9.Id = 19;
+            empList.Add(empObj9);
+
+            Employee empObj10 = new Employee();
+            empObj10.firstName = "Annie";
+            empObj10.lastName = "Howard";
+            empObj10.Id = 6;
+            empList.Add(empObj10);
+
+            Console.WriteLine(empList);
+
+            var employee = new List<Employee>();
+
+            foreach (Employee employees in employeeNew.Employees )
             {
-                if (firstName == "Joe")
-                    Console.WriteLine(firstName);
+                if (employees.firstName == "Joe")
+                {
+                    Console.WriteLine(employeeNew.firstName);
+                }
+                Console.ReadLine();
             }
 
-                             Console.ReadLine();
+            //Attempt at creating new list with lambda to pull all firstname with Joe
+
+            List<Employee> newEmpList = employeeNew.firstName.Where(x => x.firstName == "Joe").ToList();
+
+            foreach(Employee employee1 in newEmpList)
+            {
+                Console.WriteLine(employee1.firstName);
+            }
+
+            //Attempt at using lambda to make a new int list 
+            List<Employee> newIdList = empList.Where(x => x.Id > 5);
+            Console.WriteLine(newIdList);
+            Console.ReadLine();
+        }
+                            
         }
 
-
-        public string firstName { get; set; }
-        public string lastName { get; set; }
-        public int Id { get; set; }
     }
-}
+
