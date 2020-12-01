@@ -74,31 +74,32 @@ namespace Lambda2
             empObj10.Id = 6;
             empList.Add(empObj10);
 
-            Console.WriteLine(empList);
-
             var employee = new List<Employee>();
 
-            foreach (Employee employees in employeeNew.Employees )
+            foreach (Employee employees in empList)
             {
                 if (employees.firstName == "Joe")
                 {
-                    Console.WriteLine(employeeNew.firstName);
+                    Console.WriteLine(employees.firstName);
                 }
                 Console.ReadLine();
             }
 
             //Attempt at creating new list with lambda to pull all firstname with Joe
 
-            List<Employee> newEmpList = employeeNew.firstName.Where(x => x.firstName == "Joe").ToList();
+            List<Employee> newEmpList = empList.Where(x => x.firstName == "Joe").ToList();
 
-            foreach(Employee employee1 in newEmpList)
+            foreach (Employee employee1 in newEmpList)
             {
                 Console.WriteLine(employee1.firstName);
             }
 
             //Attempt at using lambda to make a new int list 
-            List<Employee> newIdList = empList.Where(x => x.Id > 5);
-            Console.WriteLine(newIdList);
+            List<Employee> newIdList = empList.Where(x => x.Id > 5).ToList();
+            foreach (Employee employee2 in newIdList)
+            {
+                Console.WriteLine(employee2.Id);
+            }
             Console.ReadLine();
         }
                             
