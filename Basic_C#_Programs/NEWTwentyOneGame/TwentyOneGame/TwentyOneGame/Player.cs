@@ -14,6 +14,7 @@ namespace TwentyOneGame
             Balance = beginningBalance;
             Name = name;
         }
+        private List<Card> _hand = new List<Card>();
         public List<Card> Hand { get; set; }
         public int Balance { get; set; }
         public string Name { get; set; }
@@ -24,7 +25,7 @@ namespace TwentyOneGame
         {
             if (Balance - amount < 0)
             {
-                Console.WriteLine("You do not have enough to place a bet that size.")
+                Console.WriteLine("You do not have enough to place a bet that size.");
                     return false;
             }
             else

@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.IO;
 
 namespace TwentyOneGame
 {
-    class Programyo
+    class Program
     {
         static void Main(string[] args)
         {
@@ -26,8 +28,8 @@ namespace TwentyOneGame
                 Console.WriteLine("Thank you for playing!");
 
             }
-            Console.WriteLine("Feel free to look arond the casino, bye for now.");
+            Console.WriteLine("Feelm free to look around the casino. Bye for now.");
             Console.ReadLine();
-        }
+        } 
     }
 }

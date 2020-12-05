@@ -6,17 +6,19 @@ namespace TwentyOneGame
 {
     public abstract class Game
     {
-        public List<Player> Players { get; set; }
+        private List<Player> _players = new List<Players>();
+        public List<Player> Players { get { return _players; } set { _players = value; } }
+        private Dictionary<Player, int> _bets = new Dictionary<Player, int>();
         public string Name { get; set; }
-        public Dictionary<Player, int> Bets { get; set; }
-        public abstract void Play();
-      
+        public string Dealer { get; set; }
+        public abstract void Play(); 
+        public Dictionary<Player, int> Bets { get { return _bets; } set { _bets = value; } }
 
         public virtual void ListPlayers()
         {
-            foreach(Player player in Players)
+            foreach (Player player in Players)
             {
-                Console.WriteLine(player.Name);
+                Console.WriteLine(player);
             }
         }
     }
