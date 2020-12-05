@@ -9,15 +9,16 @@ namespace File
 {
     public class Program
     {
-        private const string V = @"C:\Users\Brielle\Desktop\Basic_C#_Programs";
 
         static void Main(string[] args)
         {
+            string V = @"C:\Users\Brielle\Desktop\Basic_C#_Programs";
             Console.WriteLine("Please pick a number.");
             string answer = Console.ReadLine();
-            using (StreamWriter file = new StringWriter(V, true))
+            using (StreamWriter file = new StreamWriter(V, true))
             {
                 file.WriteLine(answer);
+                Console.ReadLine();
             }
         }
     }
