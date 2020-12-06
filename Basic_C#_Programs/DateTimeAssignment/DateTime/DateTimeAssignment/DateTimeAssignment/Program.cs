@@ -19,7 +19,7 @@ namespace DateTimeAssignment
 
             DateTime XhoursLater = now.AddHours(answer);
        
-                Console.WriteLine("It will be:", XhoursLater);
+                Console.WriteLine("It will be:" + XhoursLater);
                 Console.ReadLine();
 
             }
