@@ -8,9 +8,9 @@ namespace TwentyOneGame
 {
     public abstract class Game
     {
-        private List<Players> _players = new List<Player>();
+        private List<Player> _players = new List<Player>();
         private Dictionary<Player, int> _bets = new Dictionary<Player, int>();
-        public List<Player> Players { get { return _players; } set { _players = value; } }
+        public List<Player> Player { get { return _players; } set { _players = value; } }
         public string Name { get; set; }
         public Dictionary<Player, int> Bets { get; set; }
         public abstract void Play();
@@ -18,7 +18,7 @@ namespace TwentyOneGame
 
         public virtual void ListPlayers()
         {
-            foreach (Player player in Players)
+            foreach (Player player in Player)
             {
                 Console.WriteLine(player.Name);
             }

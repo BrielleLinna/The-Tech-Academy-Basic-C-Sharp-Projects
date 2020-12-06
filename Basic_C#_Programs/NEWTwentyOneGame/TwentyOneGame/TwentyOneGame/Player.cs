@@ -37,12 +37,12 @@ namespace TwentyOneGame
 
         public static Game operator +(Game game, Player player)
         {
-            game.Players.Add(player);
+            game.Player.Add(player);
             return game;
         }
         public static TwentyOneGame operator -(Game game, Player player)
         {
-            game.Players.Remove(player);
+            game.Player.Remove(player);
             return game;
         }
     }

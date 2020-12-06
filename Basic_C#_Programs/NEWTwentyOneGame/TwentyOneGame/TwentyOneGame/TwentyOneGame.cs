@@ -8,7 +8,7 @@ namespace TwentyOneGame
 {
     public class TwentyOneGame : Game, IWalkAway
     {
-        public TwentyOneGame Dealer { get; set; }
+        
         public override void Play()
         {
             Dealer = new TwentyOneDealer();
@@ -17,7 +17,7 @@ namespace TwentyOneGame
                 player.Hand = new List<Card>();
                 player.Stay = false;
             }
-            Dealer Hand = new List<Card>();
+            Dealer.Hand = new List<Card>();
             Dealer.Stay = false;
             Dealer.Deck = new Deck();
             Dealer.Deck.Shuffle();
@@ -37,7 +37,7 @@ namespace TwentyOneGame
             for (int i = 0; i < 2; i++)
             {
                 Console.WriteLine("Dealing...");
-                foreach (Player player in Player)
+                foreach (Player player in Players)
                 {
                     Console.Write("{0}:", player.Name);
                     Dealer.Deal(player.Hand);
@@ -170,10 +170,6 @@ namespace TwentyOneGame
 
         }
 
-        private void Dealer(List<Card> hand)
-        {
-            throw new NotImplementedException();
-        }
 
         public override void ListPlayers()
         {

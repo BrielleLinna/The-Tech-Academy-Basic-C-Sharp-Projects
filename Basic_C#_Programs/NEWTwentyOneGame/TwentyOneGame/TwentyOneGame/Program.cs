@@ -35,10 +35,7 @@ namespace TwentyOneGame
 
             Deck deck = new Deck();
             
-            //deck.Cards.Add(cardOne);
-            //Card CardOne = new Card();
-            //cardOne.Face = "Queen";
-            //cardOne.Suit = "Spades";
+          
         }
     }
 }

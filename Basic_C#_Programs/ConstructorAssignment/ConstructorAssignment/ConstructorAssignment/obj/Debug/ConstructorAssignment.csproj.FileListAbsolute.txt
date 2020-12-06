@@ -1,0 +1,7 @@
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConstructorAssignment\ConstructorAssignment\ConstructorAssignment\bin\Debug\ConstructorAssignment.exe.config
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConstructorAssignment\ConstructorAssignment\ConstructorAssignment\bin\Debug\ConstructorAssignment.exe
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConstructorAssignment\ConstructorAssignment\ConstructorAssignment\bin\Debug\ConstructorAssignment.pdb
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConstructorAssignment\ConstructorAssignment\ConstructorAssignment\obj\Debug\ConstructorAssignment.csprojAssemblyReference.cache
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConstructorAssignment\ConstructorAssignment\ConstructorAssignment\obj\Debug\ConstructorAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConstructorAssignment\ConstructorAssignment\ConstructorAssignment\obj\Debug\ConstructorAssignment.exe
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConstructorAssignment\ConstructorAssignment\ConstructorAssignment\obj\Debug\ConstructorAssignment.pdb
