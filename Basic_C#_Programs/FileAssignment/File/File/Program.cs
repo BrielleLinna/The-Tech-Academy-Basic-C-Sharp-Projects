@@ -12,14 +12,15 @@ namespace File
 
         static void Main(string[] args)
         {
-            string V = @"C:\Users\Brielle\Desktop\Basic_C#_Programs";
+            string v = @"C:\Users\Brielle\Documents\Logs\log.txt";
             Console.WriteLine("Please pick a number.");
             string answer = Console.ReadLine();
-            using (StreamWriter file = new StreamWriter(V, true))
+            using (StreamWriter file = new StreamWriter(v, true))
             {
                 file.WriteLine(answer);
                 Console.ReadLine();
             }
+
         }
     }
 }
