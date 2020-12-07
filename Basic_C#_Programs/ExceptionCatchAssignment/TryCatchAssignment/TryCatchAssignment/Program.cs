@@ -12,21 +12,19 @@ namespace TryCatchAssignment
 
         static void Main(string[] args)
         {
-           
-
+          
             DateTime now = DateTime.Now;
             Console.WriteLine("Enter your age:");
-            int age = Convert.ToInt32(Console.ReadLine());
-            int dateOfYear = now.Year - age;
-
-            //if (age <= 0)
-            //{
-            //    throw new ArgumentException();
-            //}
 
             try
             {
-                age = Convert.ToInt32(Console.ReadLine());
+                int age = Convert.ToInt32(Console.ReadLine());
+                if (age <= 0)
+                {
+                    throw new ArgumentException();
+                }
+                int dateOfYear = now.Year - age;
+                Console.WriteLine("Date of year:" + dateOfYear);
             }
             catch (ArgumentException)
             {
@@ -40,16 +38,7 @@ namespace TryCatchAssignment
                 Console.ReadLine();
                 return;
             }
-            finally
-            {
-                Console.WriteLine("Date of year:" + dateOfYear);
-                Console.ReadLine();
-            }
-            if (age <= 0)
-            {
-                throw new ArgumentException();
-            }
-
+            Console.ReadLine();
         }
     }
 }
