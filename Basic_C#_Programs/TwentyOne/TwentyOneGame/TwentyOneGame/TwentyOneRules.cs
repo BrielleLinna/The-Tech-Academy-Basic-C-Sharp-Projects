@@ -5,10 +5,10 @@ using System.Text;
 
 namespace TwentyOneGame
 {
-    public class TwentyOneRules
+    public class TwentyOneRules : TwentyOneGame
     {
         private static Dictionary<Face, int> _cardValues = new Dictionary<Face, int>()
-         {
+        {
             [Face.Two] = 2,
             [Face.Three] = 3,
             [Face.Four] = 4,
@@ -17,11 +17,12 @@ namespace TwentyOneGame
             [Face.Seven] = 7,
             [Face.Eight] = 8,
             [Face.Nine] = 9,
-            [Face.Ten] =  10,
+            [Face.Ten] = 10,
             [Face.Jack] = 10,
             [Face.Queen] = 10,
             [Face.King] = 10,
             [Face.Ace] = 1
+        };
 internal static bool CheckforBlackJack(List<Card> hand)
         {
             throw new NotImplementedException();
@@ -70,7 +71,7 @@ internal static bool CheckforBlackJack(List<Card> hand)
         if (value > 21) return true;
         else return false;
     }
-    public static bool ShouldDealerStay(List<Card>)
+    public static bool ShouldDealerStay(List<Card> Hand)  
     {
         int[] possibleHandValues = GetAllPossibleHandValues(Hand);
         foreach (int value in possibleHandValues)
@@ -84,8 +85,8 @@ internal static bool CheckforBlackJack(List<Card> hand)
     }
     public static bool? CompareHands(List<Card> PlayerHand, List<Card> DealerHand)
     {
-        int[] playerResults = GetAllPossibleValues(PlayerHand);
-        int[] dealerResults = GetAllossibleHandValues(DealerHand);
+        int[] playerResults = GetAllPossibleHandValues(PlayerHand);
+        int[] dealerResults = GetAllPossibleHandValues(DealerHand);
 
         int playerScore = playerResults.Where(x => x < 22).Max();
         int dealerScore = dealerResults.Where(x => x < 22).Min();

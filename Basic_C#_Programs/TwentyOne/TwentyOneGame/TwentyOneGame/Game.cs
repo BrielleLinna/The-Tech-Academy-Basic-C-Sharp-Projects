@@ -6,7 +6,7 @@ namespace TwentyOneGame
 {
     public abstract class Game
     {
-        private List<Player> _players = new List<Players>();
+        private List<Player> _players = new List<Player>();
         public List<Player> Players { get { return _players; } set { _players = value; } }
         private Dictionary<Player, int> _bets = new Dictionary<Player, int>();
         public string Name { get; set; }

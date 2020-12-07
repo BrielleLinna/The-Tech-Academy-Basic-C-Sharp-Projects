@@ -7,8 +7,7 @@ namespace TwentyOneGame
 {
     public class TwentyOneGame : Game, IWalkAway
     {
-        private object play;
-
+    
         public TwentyOneDealer Dealer { get; set; }
 
         public override void Play()

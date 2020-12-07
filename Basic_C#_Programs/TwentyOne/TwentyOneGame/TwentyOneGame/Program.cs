@@ -4,9 +4,9 @@ using System.IO;
 
 namespace TwentyOneGame
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling me your name.");
             string playerName = Console.ReadLine();
@@ -28,7 +28,7 @@ namespace TwentyOneGame
                 Console.WriteLine("Thank you for playing!");
 
             }
-            Console.WriteLine("Feelm free to look around the casino. Bye for now.");
+            Console.WriteLine("Feel free to look around the casino. Bye for now.");
             Console.ReadLine();
         } 
     }
