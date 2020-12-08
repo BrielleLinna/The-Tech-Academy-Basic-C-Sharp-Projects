@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace TwentyOneGame
-{
+{ 
     public class Player
     {
         public Player(string name, int beginningBalance)
@@ -15,7 +15,7 @@ namespace TwentyOneGame
             Name = name;
         }
         private List<Card> _hand = new List<Card>();
-        public List<Card> Hand { get; set; }
+        public List<Card> Hand { get { return _hand; } set { _hand = value; } }
         public int Balance { get; set; }
         public string Name { get; set; }
         public bool isActivelyPlaying { get; set; }
@@ -26,7 +26,7 @@ namespace TwentyOneGame
             if (Balance - amount < 0)
             {
                 Console.WriteLine("You do not have enough to place a bet that size.");
-                    return false;
+                return false;
             }
             else
             {
@@ -37,13 +37,14 @@ namespace TwentyOneGame
 
         public static Game operator +(Game game, Player player)
         {
-            game.Player.Add(player);
+            game.Players.Add(player);
             return game;
         }
-        public static TwentyOneGame operator -(Game game, Player player)
+        public static Game operator -(Game game, Player player)
         {
-            game.Player.Remove(player);
+            game.Players.Remove(player);
             return game;
         }
     }
 }
+

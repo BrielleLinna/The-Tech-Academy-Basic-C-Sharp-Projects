@@ -38,6 +38,6 @@ namespace TwentyOneGame
         Jack,
         Queen,
         King,
-        Ace
+        Ace,
     }
 }

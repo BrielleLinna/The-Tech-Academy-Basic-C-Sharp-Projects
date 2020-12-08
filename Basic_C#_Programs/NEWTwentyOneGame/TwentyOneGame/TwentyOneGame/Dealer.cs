@@ -8,7 +8,7 @@ namespace TwentyOneGame
 {
     public class Dealer
     {
-        public string name { get; set; }
+        public string Name { get; set; }
         public Deck Deck { get; set; }
         public int Balance { get; set; }
 
