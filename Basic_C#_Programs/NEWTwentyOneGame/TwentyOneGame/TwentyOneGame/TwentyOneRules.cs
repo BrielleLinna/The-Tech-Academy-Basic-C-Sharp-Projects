@@ -33,7 +33,7 @@ namespace TwentyOneGame
         if (result.Length == 1) return result;
     }
 
-        for (int i = 1; i<result.Length; i++)
+        for(int i = 1; i<result.Length; i++)
         {
             value += (i*10);
             result[i] = value;
