@@ -1,0 +1,9 @@
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NEWTwentyOneGame\TwentyOneGame\Casino\obj\Debug\netstandard2.0\Casino.csprojAssemblyReference.cache
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NEWTwentyOneGame\TwentyOneGame\Casino\obj\Debug\netstandard2.0\Casino.AssemblyInfoInputs.cache
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NEWTwentyOneGame\TwentyOneGame\Casino\obj\Debug\netstandard2.0\Casino.AssemblyInfo.cs
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NEWTwentyOneGame\TwentyOneGame\Casino\obj\Debug\netstandard2.0\Casino.csproj.CoreCompileInputs.cache
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NEWTwentyOneGame\TwentyOneGame\Casino\bin\Debug\netstandard2.0\Casino.deps.json
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NEWTwentyOneGame\TwentyOneGame\Casino\bin\Debug\netstandard2.0\Casino.dll
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NEWTwentyOneGame\TwentyOneGame\Casino\bin\Debug\netstandard2.0\Casino.pdb
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NEWTwentyOneGame\TwentyOneGame\Casino\obj\Debug\netstandard2.0\Casino.dll
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\NEWTwentyOneGame\TwentyOneGame\Casino\obj\Debug\netstandard2.0\Casino.pdb
