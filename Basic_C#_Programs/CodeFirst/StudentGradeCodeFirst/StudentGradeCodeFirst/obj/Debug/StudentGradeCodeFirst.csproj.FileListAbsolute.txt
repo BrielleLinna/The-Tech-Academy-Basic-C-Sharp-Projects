@@ -1,0 +1,12 @@
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CodeFirst\StudentGradeCodeFirst\StudentGradeCodeFirst\bin\Debug\StudentGradeCodeFirst.exe.config
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CodeFirst\StudentGradeCodeFirst\StudentGradeCodeFirst\bin\Debug\StudentGradeCodeFirst.exe
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CodeFirst\StudentGradeCodeFirst\StudentGradeCodeFirst\bin\Debug\StudentGradeCodeFirst.pdb
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CodeFirst\StudentGradeCodeFirst\StudentGradeCodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CodeFirst\StudentGradeCodeFirst\StudentGradeCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CodeFirst\StudentGradeCodeFirst\StudentGradeCodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CodeFirst\StudentGradeCodeFirst\StudentGradeCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CodeFirst\StudentGradeCodeFirst\StudentGradeCodeFirst\obj\Debug\StudentGradeCodeFirst.csprojAssemblyReference.cache
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CodeFirst\StudentGradeCodeFirst\StudentGradeCodeFirst\obj\Debug\StudentGradeCodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CodeFirst\StudentGradeCodeFirst\StudentGradeCodeFirst\obj\Debug\StudentGradeCodeFirst.csproj.CopyComplete
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CodeFirst\StudentGradeCodeFirst\StudentGradeCodeFirst\obj\Debug\StudentGradeCodeFirst.exe
+C:\Users\Brielle\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\CodeFirst\StudentGradeCodeFirst\StudentGradeCodeFirst\obj\Debug\StudentGradeCodeFirst.pdb
