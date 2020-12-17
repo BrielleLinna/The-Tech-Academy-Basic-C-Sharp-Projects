@@ -1,5 +1,5 @@
 # The-Tech-Academy-Basic-C-Sharp-Projects
-This showcases various projects and assignments that utilize the C# programming language and the .NET framework.  Below are some of the more complex projects that showcase different outcomes of using C# and .NET.
+This showcases various projects and assignments that utilize the C# programming language and the .NET framework.  Below are some of the more complex projects that showcases C# and .NET.
 
 PROJECTS:
 -Twenty One Game
