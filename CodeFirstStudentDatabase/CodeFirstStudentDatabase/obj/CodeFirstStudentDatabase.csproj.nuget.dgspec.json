@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Brielle\\Desktop\\WebApplication\\EntityFramework\\CodeFirstStudentDatabase\\CodeFirstStudentDatabase\\CodeFirstStudentDatabase.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Brielle\\Desktop\\WebApplication\\EntityFramework\\CodeFirstStudentDatabase\\CodeFirstStudentDatabase\\CodeFirstStudentDatabase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Brielle\\Desktop\\WebApplication\\EntityFramework\\CodeFirstStudentDatabase\\CodeFirstStudentDatabase\\CodeFirstStudentDatabase.csproj",
+        "projectName": "CodeFirstStudentDatabase",
+        "projectPath": "C:\\Users\\Brielle\\Desktop\\WebApplication\\EntityFramework\\CodeFirstStudentDatabase\\CodeFirstStudentDatabase\\CodeFirstStudentDatabase.csproj",
+        "packagesPath": "C:\\Users\\Brielle\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Brielle\\Desktop\\WebApplication\\EntityFramework\\CodeFirstStudentDatabase\\CodeFirstStudentDatabase\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Brielle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Aerospike.Client": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
